@@ -1,9 +1,10 @@
+# This is a program which adds different symbols and their values
 from datetime import datetime
 from datetime import date
 
 class Record:
     """
-    This is my first class
+    This is a class of records of symbols
     """
     def __init__(self,rawdata,symbol=None,date=''):
         self.symbol = rawdata.get("symbol")
