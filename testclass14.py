@@ -1,7 +1,7 @@
 # This is a program which adds different symbols and their values
 from datetime import datetime
 from datetime import date
-
+# This is a class of Records of symbols
 class Record:
     """
     This is a class of records of symbols
