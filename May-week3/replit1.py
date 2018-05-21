@@ -2,8 +2,7 @@ from collections import Counter
 def fun1():
     list1=[1,2,3,2,3]
     #list1=[1,1,1,1,1]
-    #print(Counter(list1))
-    print(list1.count(2))
+    print(Counter(list1))
     #print(type(Counter.value(2)))
     #print(type(list1))
     for i in range(5):
