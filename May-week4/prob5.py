@@ -11,7 +11,7 @@ class myclass:
         return "" \
                "string".format(self.str1)
     def getstring(self):
-        self.str1=input('enter a string')
+        self.str1=input('Enter a String:')
 
     def printstring(self):
         print(self.str1)
