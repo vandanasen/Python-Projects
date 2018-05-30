@@ -1,6 +1,5 @@
 """
 Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.
-Suppose the following input is supplied to the program
 """
 
 def fun():
@@ -13,7 +12,6 @@ def fun():
 
 """
 Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.
-Suppose the following input is supplied to the program
 """
 def fun2():
     gv_list=(1,2,3,4,5,6,7,8,9)
